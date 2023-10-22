@@ -1,4 +1,14 @@
+.logosite{
+    height: 520px;
+    width: 1879px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 24%, rgba(64,0,129,1) 68%, rgba(74,11,79,1) 100%);
+}
+
 .bakcimg{
-    height: 820px;
-    width: 1920px;
+    margin: 0;
+    padding: 0;
 }

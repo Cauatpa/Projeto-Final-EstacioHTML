@@ -3,6 +3,7 @@ body{
     padding: 0px;
 }
 
+
 .header{
     overflow: hidden;
     background-color: #141414;
@@ -15,6 +16,7 @@ body{
     margin-left: 30px;
 }
 
+
 .abas{
     float: right;
     text-align: center;
@@ -23,18 +25,18 @@ body{
 
 .btnhome, .btncadastro, .btnsobre, .btnfale, .btnlog{
     color: white;
+    font-family: 'Bebas Neue', sens-serif;
     text-decoration: none;
     margin: 5px;
     text-align: center;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
 }
 
 .btnhome:hover, .btncadastro:hover, .btnsobre:hover, .btnfale:hover, .btnlog:hover{
-    color: rgb(177, 177, 177);
+    color: #400081;
     margin: 5px;
     text-align: center;
     font-weight: bold;
-    border: solid 1px #ffff;
-    border-radius: 5px;
+    border-bottom: solid 1px #ffff;
+    border-radius: 1px;
 }

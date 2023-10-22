@@ -10,8 +10,8 @@ body{
 
 .logo{
     margin: 10px;  
-    height: 95px;
-    width: 95px;
+    height: 100px;
+    width: 100px;
     margin-left: 30px;
 }
 
@@ -31,9 +31,10 @@ body{
 }
 
 .btnhome:hover, .btncadastro:hover, .btnsobre:hover, .btnfale:hover, .btnlog:hover{
-    color: white;
+    color: rgb(177, 177, 177);
     margin: 5px;
     text-align: center;
     font-weight: bold;
-    border: solid 2px #ffff;
+    border: solid 1px #ffff;
+    border-radius: 5px;
 }

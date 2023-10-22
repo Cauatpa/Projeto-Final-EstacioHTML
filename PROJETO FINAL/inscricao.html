@@ -2,8 +2,9 @@
 <html>
 <head>
     <title>Página de Inscrição</title>
+    <link rel="stylesheet" href="CSS's/header.css">
     <style>
-        body {
+        main {
             display: flex;
             justify-content: center;
             align-items: center;
@@ -60,88 +61,109 @@
     </style>
 </head>
 <body>
+    <header class="header">
+        <div class="topnav">
+            <a href="pagina.html"><img src="img/logo.png" class="logo" ></a>
 
-<!--Quadro de registro do LoL-->
-<div class="form-container">
-    <img src="img\pagIns\lol.jpeg" alt="lolzin" width="400" height="240">
-    <h1>Inscrição LOL</h1>
-    <form id="registration-form">
-        <label for="nome">Nome:</label>
-        <input type="text" id="nome" name="nome" required><br><br>
+            <div class="abas">
+                <a class="btnhome" href="pagina.html">Home</a>
 
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
+                <a class="btncadastro" href="inscricao.html">Cadastros</a>
+    
+                <a class="btnsobre" href="">Sobre</a>
+    
+                <a class="btnfale" href="">Fale consoco</a>
+    
+                <a class="btnlog" href="">Log-in/Sing-in</a>
+            </div>
 
-        <label for="equipe">Equipe:</label>
-        <input type="text" id="equipe" name="equipe" required><br><br>
+        </div>
+    </header>
 
-        <button type="submit">Enviar</button>
-    </form>
+    <main>
+        <!--Quadro de registro do LoL-->
+        <div class="form-container">
+            <img src="img\pagIns\lol.jpeg" alt="lolzin" width="400" height="240">
+            <h1>Inscrição LOL</h1>
+            <form id="registration-form">
+                <label for="equipe">Equipe:</label>
+                <input type="text" id="equipe" name="equipe" required><br><br>
 
-    <div class="menssagem-de-confirmacao" id="menssagem-de-confirmacao">
-        Obrigado pela inscrição! Seus dados foram registrados.
-    </div>
-</div>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br><br>
 
-<!--Quadro de registro do Vava-->
-<div class="form-container">
-    <img src="img\pagIns\vava.jpg" alt="Vava" width="400" height="240">
-    <h1>Inscrição Valorant</h1>
-    <form id="registration-form">
-        <label for="nome">Nome:</label>
-        <input type="text" id="nome" name="nome" required><br><br>
+                <label for="jogadores">Jogadores:</label>
+                <input type="text" id="jogadores" name="jogadores" required><br><br>
 
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
+                <button type="submit">Enviar</button>
+            </form>
 
-        <label for="equipe">Equipe:</label>
-        <input type="text" id="equipe" name="equipe" required><br><br>
+            <div class="menssagem-de-confirmacao" id="menssagem-de-confirmacao">
+                Obrigado pela inscrição! Seus dados foram registrados.
+            </div>
+        </div>
 
-        <button type="submit">Enviar</button>
-    </form>
-        
-    <div class="menssagem-de-confirmacao" id="menssagem-de-confirmacao">
-        Obrigado pela inscrição! Seus dados foram registrados.
-    </div>
-</div>
+        <!--Quadro de registro do Vava-->
+        <div class="form-container">
+            <img src="img\pagIns\vava.jpg" alt="Vava" width="400" height="240">
+            <h1>Inscrição Valorant</h1>
+            <form id="registration-form">
+                <label for="equipe">Equipe:</label>
+                <input type="text" id="equipe" name="equipe" required><br><br>
 
-<!--Quadro de registro do CSSGO-->
-<div class="form-container">
-    <img src="img\pagIns\csgo.png" alt="cszin" width="400" height="240">
-    <h1>Inscrição CS:GO</h1>
-    <form id="registration-form">
-        <label for="nome">Nome:</label>
-        <input type="text" id="nome" name="nome" required><br><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br><br>
 
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
+                <label for="jogadores">Jogadores:</label>
+                <input type="text" id="jogadores" name="jogadores" required><br><br>
 
-        <label for="equipe">Equipe:</label>
-        <input type="text" id="equipe" name="equipe" required><br><br>
+                <button type="submit">Enviar</button>
+            </form>
+                
+            <div class="menssagem-de-confirmacao" id="menssagem-de-confirmacao">
+                Obrigado pela inscrição! Seus dados foram registrados.
+            </div>
+        </div>
 
-        <button type="submit">Enviar</button>
-    </form>
-    <div class="menssagem-de-confirmacao" id="menssagem-de-confirmacao">
-        Obrigado pela inscrição! Seus dados foram registrados.
-    </div>            
-</div>
+        <!--Quadro de registro do CSSGO-->
+        <div class="form-container">
+            <img src="img\pagIns\csgo.png" alt="cszin" width="400" height="240">
+            <h1>Inscrição CS:GO</h1>
+            <form id="registration-form">
+                <label for="equipe">Equipe:</label>
+                <input type="text" id="equipe" name="equipe" required><br><br>
 
-<script>
-    const form = document.getElementById('registration-form');
-    const confirmationMessage = document.getElementById('menssagem-de-confirmacao');
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br><br>
 
-    form.addEventListener('submit', function (e) {
-        e.preventDefault();
+                <label for="jogadores">Jogadores:</label>
+                <input type="text" id="jogadores" name="jogadores" required><br><br>
 
-        const nome = form.elements['nome'].value;
-        const email = form.elements['email'].value;
-        const equipe = form.elements['equipe'].value;
+                <button type="submit">Enviar</button>
+            </form>
+            <div class="menssagem-de-confirmacao" id="menssagem-de-confirmacao">
+                Obrigado pela inscrição! Seus dados foram registrados.
+            </div>            
+        </div>
 
-        confirmationMessage.style.display = 'block';
+        <script>
+            const form = document.getElementById('registration-form');
+            const confirmationMessage = document.getElementById('menssagem-de-confirmacao');
 
-        form.reset();
-    });
-</script>
+            form.addEventListener('submit', function (e) {
+                e.preventDefault();
+
+                const nome = form.elements['equipe'].value;
+                const email = form.elements['email'].value;
+                const equipe = form.elements['jogadores'].value;
+
+                confirmationMessage.style.display = 'block';
+
+                form.reset();
+            });
+        </script>
+    </main>
+
 
 </body>
 </html>

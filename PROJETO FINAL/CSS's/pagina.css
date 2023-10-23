@@ -61,6 +61,11 @@
     justify-content: center;
 }
 
+.info1 a, .info2 a, .info3 a{
+    display: flex;
+    justify-content: center;
+}
+
 .bn30 {
     border: 5em;
     cursor: pointer;
@@ -75,9 +80,10 @@
     -webkit-transition: box-shadow 0.25s;
     transition: box-shadow 0.25s;
     color: white;
-    margin-left: 110px;
     font-family: 'Bebas Neue';
     margin-top: 20px;
+    display: flex;
+    justify-content: center;
   }
   
   .bn30 .text {

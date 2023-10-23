@@ -37,11 +37,11 @@
     border-bottom: 1px solid black;
 }
 
-.box img:hover{
+/*.box img:hover{
     width: 420px;
     height: 280px;
     transform: scale(1);
-}
+}*/
 
 .box1, .box2, .box3{
     margin: 30px;

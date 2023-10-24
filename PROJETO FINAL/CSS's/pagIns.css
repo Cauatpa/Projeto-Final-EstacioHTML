@@ -3,48 +3,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f2f2f2;
+}
+
+/* fonte da main */
+main{
     font-family: Arial, sans-serif;
-}
-
-/* Estilos para a barra de navegação */
-.header {
-    overflow: hidden;
-    background-color: #141414;
-}
-
-/* Estilos para o logotipo */
-.logo {
-    margin: 10px;
-    height: 100px;
-    width: 100px;
-    margin-left: 30px;
-}
-
-/* Estilos para as abas de navegação */
-.abas {
-    float: right;
-    text-align: center;
-    margin: 45px;
-}
-
-/* Estilos para os botões de navegação */
-.btnhome, .btncadastro, .btnsobre, .btnfale, .btnlog {
-    color: white;
-    text-decoration: none;
-    margin: 5px;
-    text-align: center;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Estilos para os botões de navegação ao passar o mouse por cima */
-.btnhome:hover, .btncadastro:hover, .btnsobre:hover, .btnfale:hover, .btnlog:hover {
-    color: rgb(177, 177, 177);
-    margin: 5px;
-    text-align: center;
-    font-weight: bold;
-    border: solid 1px #ffff;
-    border-radius: 5px;
 }
 
 /* Estilos para o contêiner principal */

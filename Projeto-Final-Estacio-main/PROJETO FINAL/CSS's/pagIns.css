@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    overflow: hidden;
+    background-color: #141414;
+    position: fixed;
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 60px);
+    margin: 60px 0 0;
+}
+
+.form-container {
+    text-align: center;
+}
+
+.form-container label {
+    color: black;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
+.form-container input {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid #fff;
+    padding: 5px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+.form-container button {
+    color: white;
+    font-weight: bold;
+    border: 2px solid #fff;
+    background-color: #141414;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    background-color: #586F7C;
+}
+
+.form-container button:hover {
+    background-color: #815355;
+}
+
+.menssagem-de-confirmacao {
+    display: none;
+    background-color: #B8DBD9;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container1, .container2, .container3 {
+    border: 1px solid black;
+    border-radius: 9px;
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    width: 600px;
+}
+.container1 {
+    position: absolute;
+    top: 55%; 
+    left: 10px; 
+    transform: translate(0, -50%);
+    margin-left: 150px;
+}
+
+.container2 {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container3 {
+    position: absolute;
+    top: 55%;
+    right: 10px;
+    transform: translate(0, -50%);
+    margin-right: 150px;
+}

@@ -1,10 +1,6 @@
-body {
+body, main {
     margin: 0;
     padding: 0;
-}
-
-main {
-    font-family: Arial, sans-serif;
 }
 
 .header {
@@ -22,28 +18,25 @@ main {
     margin: 60px 0 0;
 }
 
-.form-container {
-    text-align: center;
+.form-container label, .form-container input {
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    width: 100%;
 }
 
 .form-container label {
     color: black;
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 5px;
 }
 
 .form-container input {
     color: rgb(0, 0, 0);
     text-align: center;
-    font-weight: bold;
     border: 2px solid #fff;
     padding: 5px;
-    width: 100%;
-    margin: 0 auto;
-    margin-bottom: 15px;
 }
 
 .form-container button {
@@ -51,7 +44,7 @@ main {
     font-weight: bold;
     border: 2px solid #fff;
     background-color: #141414;
-    padding: 5px 10px;
+    padding: 20px 30px;
     cursor: pointer;
     margin: 0 auto;
     margin-bottom: 15px;
@@ -71,14 +64,18 @@ main {
     margin-top: 10px;
 }
 
-.container1, .container2, .container3 {
-    border: 1px solid black;
+.container1, .container2, .container3, .container4, .container5, .container6 {
+    border: 10px solid black;
     border-radius: 9px;
     display: inline-block;
     justify-content: center;
     text-align: center;
     width: 600px;
+    background-color: rgb(56, 56, 56);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
 }
+
 .container1 {
     position: absolute;
     top: 55%; 
@@ -100,4 +97,50 @@ main {
     right: 10px;
     transform: translate(0, -50%);
     margin-right: 150px;
+}
+
+.container4 {
+    position: absolute;
+    top: 130%; 
+    left: 10px; 
+    transform: translate(0, -50%);
+    margin-left: 150px;
+}
+
+.container5 {
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container6 {
+    position: absolute;
+    top: 130%;
+    right: 10px;
+    transform: translate(0, -50%);
+    margin-right: 150px;
+}
+
+
+
+/* tentando ajustar pras telas diferentes */
+@media screen and (max-width: 768px) {
+    .main {
+        padding: 20px;
+    }
+
+    .form-container button {
+        padding: 15px 25px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .main {
+        padding: 10px;
+    }
+
+    .form-container button {
+        padding: 10px 20px;
+    }
 }

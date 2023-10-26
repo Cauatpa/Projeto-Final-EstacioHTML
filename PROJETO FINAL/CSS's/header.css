@@ -21,7 +21,17 @@ body{
 .abas{
     float: right;
     text-align: center;
-    margin: 45px;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 20px;
+}
+
+.abas li{
+    text-decoration: none;
+    list-style: none;
+    margin: 20px;
+    margin-top: 40px;
 }
 
 .btnhome, .btncadastro, .btnsobre, .btnfale, .btnlog{

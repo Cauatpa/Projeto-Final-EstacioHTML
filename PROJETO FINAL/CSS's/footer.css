@@ -8,14 +8,29 @@
     background-color: #141414;
 }
 
-main{
-    flex: 1 0 auto;
+.lgfooter{
+    display: flex;
+    justify-content: center;
 }
 
-.lgfooter{
-    height: 80px;
-    width: 80px;
+.lgfooter img{
+    height: 90px;
+    width: 90px;
+}
+
+.boxfooter{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.icft a{
+    width: 64px;
+    height: 64px;
+}
+
+.icft{
+    width: 64px;
+    height: 64px;
+    margin-top: 15px;
 }

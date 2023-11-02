@@ -4,7 +4,7 @@
 
 ## Grupo 7: Cauã Thurler Pinheiro de Azevedo (202302430041)
 
-### Seção 1 e 2 Feita por Cauã/// 
+### HOME, FOOTER e HEADER feita por Cauã/// 
 
 #### HOME DO SITE
 
@@ -29,6 +29,11 @@
 
 
 #### FALE CONOSCO
+
+<p> Seção #1 </p>
+
+![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/897d92b8-a6db-4fb1-a561-f79598f3f9a5)
+
 
 
 #### LOGIN

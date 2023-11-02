@@ -2,9 +2,9 @@
 
 ## Link para visualizar a página: https://htmlpreview.github.io/?https://github.com/Cauatpa/Projeto-Final-Estacio/blob/main/PROJETO%20FINAL/pagina.html
 
-## Grupo 7: Cauã Thurler Pinheiro de Azevedo (202302430041)
+## Grupo 7: Cauã Thurler Pinheiro de Azevedo (202302430041) // João Paulo de Almeida da Silva (202302824722)
 
-### HOME, FOOTER e HEADER feita por Cauã/// 
+### HOME, FOOTER e HEADER feitos por Cauã // CADASTROS feito por João // 
 
 #### HOME DO SITE
 

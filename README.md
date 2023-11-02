@@ -24,7 +24,15 @@
 
 #### CADASTROS
 
+<p> Seção #1: Cadastros dos campeonatos </p>
 
+![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/a88e8aca-c67e-4d1c-bbad-8b2bd7ba3691)
+
+![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/c0e6e290-82c9-4279-a567-32cfcbb44a3d)
+
+![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/b65c6ce3-d4be-4ca4-a329-d07497155863)
+
+ 
 #### SOBRE
 
 

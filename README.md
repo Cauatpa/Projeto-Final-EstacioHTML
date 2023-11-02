@@ -6,7 +6,7 @@
 
 ### HOME, FOOTER e HEADER feitos por Cauã // CADASTROS feito por João // 
 
-<p> Seção #1: Header + Footer do site </p>
+<p> Header + Footer do site </p>
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/6d04da06-1fb0-438b-bc9f-4bba968e1593)
 
@@ -14,7 +14,7 @@
 
 #### HOME DO SITE
 
-<p> Seção #2: Conteudos da home do site </p>
+<p> Conteudos da home do site </p>
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/b12c4d38-77cc-4845-b7ba-291ac37f58af)
 
@@ -24,7 +24,7 @@
 
 #### CADASTROS
 
-<p> Seção #1: Cadastros dos campeonatos </p>
+<p> Cadastros dos campeonatos </p>
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/a88e8aca-c67e-4d1c-bbad-8b2bd7ba3691)
 
@@ -38,10 +38,8 @@
 
 #### FALE CONOSCO
 
-<p> Seção #1 </p>
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/897d92b8-a6db-4fb1-a561-f79598f3f9a5)
-
 
 
 #### LOGIN

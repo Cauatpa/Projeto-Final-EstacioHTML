@@ -6,13 +6,13 @@
 
 ### HOME, FOOTER e HEADER feitos por Cauã // CADASTROS feito por João // 
 
-#### HOME DO SITE
-
 <p> Seção #1: Header + Footer do site </p>
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/6d04da06-1fb0-438b-bc9f-4bba968e1593)
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/92b4433a-e961-4c57-9229-93c1e9689a2b)
+
+#### HOME DO SITE
 
 <p> Seção #2: Conteudos da home do site </p>
 

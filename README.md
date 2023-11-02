@@ -1,8 +1,12 @@
 # Projeto Final - Estácio
 
+## Link para visualizar a página: https://htmlpreview.github.io/?https://github.com/Cauatpa/Projeto-Final-Estacio/blob/main/PROJETO%20FINAL/pagina.html
+
 ## Grupo 7: Cauã Thurler Pinheiro de Azevedo (202302430041)
 
 ### Seção 1 e 2 Feita por Cauã/// 
+
+#### HOME DO SITE
 
 <p> Seção #1: Header + Footer do site </p>
 
@@ -18,3 +22,13 @@
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/e9c56889-a365-4df2-8151-398f3ac700e0)
 
+#### CADASTROS
+
+
+#### SOBRE
+
+
+#### FALE CONOSCO
+
+
+#### LOGIN

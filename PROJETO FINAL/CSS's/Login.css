@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.texto1{
+    margin: 60px;
+    font-family: 'Bebas Neue';
+    display: flex;
+    justify-content: center;
+}
+
+.caixa{
+    margin: 20px;
+    margin-top: 40px;
+    color: #000000ef;
+    font-family: 'Bebas Neue';
+    display: flex;
+    justify-content: center;
+}
+
+.td1 input, .td2 input, .td3 input{
+    width: 500px;
+    height: 20px;
+    border: 5;
+    border-style: outset;
+    border-radius: 10px;
+}
+
+
+
+
+.td5 input{
+    width: 90px;
+    height: 30px;
+    font-family: 'Bebas Neue';
+}
+
+a{
+    text-decoration: none;
+}

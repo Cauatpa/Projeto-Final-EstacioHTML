@@ -4,7 +4,7 @@
 
 ## Grupo 7: Cauã Thurler Pinheiro de Azevedo (202302430041) // João Paulo de Almeida da Silva (202302824722) // Fernando Faria de Oliveira (202302291406)
 
-### HOME, FOOTER e HEADER feitos por Cauã // CADASTROS feito por João // FALE CONOSCO feito por Fernando
+### HOME, FOOTER e HEADER feitos por Cauã // CADASTROS feito por João // FALE CONOSCO feito por Fernando //
 
 <p> Header + Footer do site </p>
 
@@ -43,3 +43,11 @@
 
 
 #### LOGIN
+
+<p> Login </p>
+
+![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/811c59d9-451d-4def-a3d2-300debe394e1)
+
+<p> Cadastros </p>
+
+![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/64ae3286-91fc-4d6e-b39e-9bce54a49cfc)

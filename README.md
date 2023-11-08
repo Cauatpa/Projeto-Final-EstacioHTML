@@ -2,7 +2,15 @@
 
 ## Link para visualizar a página: https://htmlpreview.github.io/?https://github.com/Cauatpa/Projeto-Final-Estacio/blob/main/PROJETO%20FINAL/pagina.html
 
-## Grupo 7: Cauã Thurler Pinheiro de Azevedo (202302430041) // João Paulo de Almeida da Silva (202302824722) // Fernando Faria de Oliveira (202302291406) // Iury Oliveira de Figueiredo (202302289411)
+## Grupo 7:
+<br>
+// Cauã Thurler Pinheiro de Azevedo (202302430041) 
+<br>
+// João Paulo de Almeida da Silva (202302824722) 
+<br>
+// Fernando Faria de Oliveira (202302291406) 
+<br>
+// Iury Oliveira de Figueiredo (202302289411)
 
 ### Contribuições para o site:
 <br>
@@ -14,6 +22,7 @@
 <br>
 // LOGIN e CADASTRO feitos por Iury
 
+<br>
 <p> Header + Footer do site </p>
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/6d04da06-1fb0-438b-bc9f-4bba968e1593)

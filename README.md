@@ -21,9 +21,10 @@
 // FALE CONOSCO feito por Fernando 
 <br>
 // LOGIN e CADASTRO feitos por Iury
-
 <br>
-<p> Header + Footer do site </p>
+
+
+#### HEADER E FOOTER DO SITE
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/6d04da06-1fb0-438b-bc9f-4bba968e1593)
 
@@ -31,11 +32,15 @@
 
 #### HOME DO SITE
 
-<p> Conteudos da home do site </p>
+<p> Logo </p>
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/b12c4d38-77cc-4845-b7ba-291ac37f58af)
 
+<p> Campeonatos </p>
+
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/db0531c5-2404-4e2d-bd5c-4140992dcf4a)
+
+<p> Resumo do site </p>
 
 ![image](https://github.com/Cauatpa/Projeto-Final-Estacio/assets/101412705/e9c56889-a365-4df2-8151-398f3ac700e0)
 

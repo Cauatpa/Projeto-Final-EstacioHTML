@@ -8,17 +8,28 @@ body {
 
 .form-container {
     background-color: rgba(255, 255, 255, 0.8);
-    padding: 20px;
     border-radius: 10px;
     transform: translate(0, 0);
-    margin: auto;     
 }
 
 h1 {
     font-size: 36px;
+    border-bottom: solid 1px black;
 }
 
 p {
     font-size: 18px;
     line-height: 1.5;
+}
+
+.container{
+    margin: 20px;
+}
+
+h1, h2, h3{
+    margin: 20px;
+}
+
+.ull{
+    overflow: hidden;
 }

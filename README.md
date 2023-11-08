@@ -11,6 +11,8 @@
 // Fernando Faria de Oliveira (202302291406) 
 <br>
 // Iury Oliveira de Figueiredo (202302289411)
+<br>
+// Robsuel NÂO TEVE CONTRIBUIÇÂO NO PROJETO
 
 ### Contribuições para o site:
 <br>

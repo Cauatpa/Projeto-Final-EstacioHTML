@@ -16,7 +16,7 @@
 <br>
 // HOME, FOOTER e HEADER feitos por Cauã 
 <br>
-// CADASTROS e SOBRE feitos por João 
+// CADASTRO DOS CAMPEONATOS e SOBRE feitos por João 
 <br>
 // FALE CONOSCO feito por Fernando 
 <br>

@@ -12,7 +12,7 @@
 <br>
 // Iury Oliveira de Figueiredo (202302289411)
 <br>
-// Robsuel NÂO TEVE CONTRIBUIÇÂO NO PROJETO
+// Robsuel NÂO TEVE CONTRIBUIÇÃO NO PROJETO
 
 ### Contribuições para o site:
 <br>

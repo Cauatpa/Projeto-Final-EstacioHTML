@@ -4,7 +4,15 @@
 
 ## Grupo 7: Cauã Thurler Pinheiro de Azevedo (202302430041) // João Paulo de Almeida da Silva (202302824722) // Fernando Faria de Oliveira (202302291406) // Iury Oliveira de Figueiredo (202302289411)
 
-### HOME, FOOTER e HEADER feitos por Cauã // CADASTROS e SOBRE feitos por João // FALE CONOSCO feito por Fernando // LOGIN e CADASTRO feitos por Iury
+### Contribuições para o site:
+<br>
+// HOME, FOOTER e HEADER feitos por Cauã 
+<br>
+// CADASTROS e SOBRE feitos por João 
+<br>
+// FALE CONOSCO feito por Fernando 
+<br>
+// LOGIN e CADASTRO feitos por Iury
 
 <p> Header + Footer do site </p>
 
